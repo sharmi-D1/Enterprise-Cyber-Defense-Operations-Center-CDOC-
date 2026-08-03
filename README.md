@@ -18,3 +18,5 @@ The project focuses on practical implementation of endpoint telemetry collection
 
 ## Architecture
 <img width="735" height="673" alt="Screenshot 2026-07-31 234518" src="https://github.com/user-attachments/assets/560664ae-b182-4d0f-ab1b-d8e9df990ffb" />
+
+
