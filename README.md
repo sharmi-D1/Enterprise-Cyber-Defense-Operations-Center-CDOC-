@@ -16,7 +16,6 @@ The project focuses on practical implementation of endpoint telemetry collection
 - Perform vulnerability assessment using OpenVAS
 - Document the security monitoring workflow and technical implementation
 
-## Architecture
-<img width="735" height="673" alt="Screenshot 2026-07-31 234518" src="https://github.com/user-attachments/assets/560664ae-b182-4d0f-ab1b-d8e9df990ffb" />
+
 
 
