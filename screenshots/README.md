@@ -37,5 +37,10 @@ Vulnerability scanning configuration and scan results.
 <img width="1918" height="963" alt="Screenshot 2026-06-23 110744" src="https://github.com/user-attachments/assets/dbf1d9cc-c5d6-4814-ba46-28086e92401e" />
 <img width="1917" height="977" alt="Screenshot 2026-07-02 120930" src="https://github.com/user-attachments/assets/4a3da153-6945-4434-b83a-b03e44ea041c" />
 
+### Log Collections
+<img width="1917" height="967" alt="Screenshot 2026-06-04 203738" src="https://github.com/user-attachments/assets/96c34d2d-107c-4e69-a365-1ebcddeb19ee" />
+<img width="1919" height="1025" alt="Screenshot 2026-05-26 103506" src="https://github.com/user-attachments/assets/0a68c873-1ce1-4b05-9de5-c3b46828336d" />
+<img width="1919" height="1029" alt="Screenshot 2026-05-26 103900" src="https://github.com/user-attachments/assets/e038e57e-9dd0-4213-8f63-0bb3886c7929" />
+
 Each screenshot is included as implementation evidence for the corresponding component documented in this repository.
 
