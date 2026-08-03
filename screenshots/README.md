@@ -20,6 +20,9 @@ Sysmon installation, configuration, and endpoint telemetry.
 Log ingestion, searches, detections, and dashboards.
 <img width="1917" height="967" alt="Screenshot 2026-06-04 203738" src="https://github.com/user-attachments/assets/fb864063-5fd0-480b-b20d-fd9d7a642489" />
 <img width="1918" height="968" alt="Screenshot 2026-06-06 171424" src="https://github.com/user-attachments/assets/43978ffe-841e-495d-9152-9ae45f389bbc" />
+<img width="1919" height="971" alt="Screenshot 2026-05-27 131927" src="https://github.com/user-attachments/assets/ea00798a-04e3-47bd-ad4a-f54353522727" />
+<img width="1919" height="967" alt="Screenshot 2026-05-27 171501" src="https://github.com/user-attachments/assets/e8bb617e-8598-4ecf-adc6-6ea90618164a" />
+<img width="1919" height="976" alt="Screenshot 2026-05-26 210651" src="https://github.com/user-attachments/assets/8679593e-52e3-48f4-ba31-deaf59eb2820" />
 
 ### Wireshark
 
